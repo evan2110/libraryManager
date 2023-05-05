@@ -1,0 +1,17 @@
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LoginWinForm.exe
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LoginWinForm.deps.json
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LoginWinForm.runtimeconfig.json
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LoginWinForm.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LoginWinForm.pdb
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.csproj.AssemblyReference.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.frmLogin.resources
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.csproj.GenerateResource.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.AssemblyInfoInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.AssemblyInfo.cs
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.csproj.CoreCompileInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\refint\LoginWinForm.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.pdb
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.genruntimeconfig.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\ref\LoginWinForm.dll

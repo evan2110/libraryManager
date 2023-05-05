@@ -1,0 +1,134 @@
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.exe
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryManage.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryManage.pdb
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.AssemblyReference.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.LibraryDetail.resources
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.LibraryManageForm.resources
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.frmLogin.resources
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.GenerateResource.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.AssemblyInfoInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.AssemblyInfo.cs
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.CoreCompileInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\refint\LibraryWinApp.dll
+D:\C Sharp\Folder\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.exe
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\appsettings.json
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.deps.json
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.runtimeconfig.json
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryWinApp.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryManage.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\LibraryManage.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.AssemblyReference.cache
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.LibraryDetail.resources
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.LibraryManageForm.resources
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LoginWinForm.frmLogin.resources
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.GenerateResource.cache
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.AssemblyInfoInputs.cache
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.AssemblyInfo.cs
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.CoreCompileInputs.cache
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.csproj.CopyComplete
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\refint\LibraryWinApp.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.genruntimeconfig.cache
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\ref\LibraryWinApp.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\obj\Debug\net6.0-windows\LibraryWinApp.frmLibraryBorrow.resources
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\PagedList.dll
+D:\C Sharp\Tren lop\ProjectPRN\LoginWinForm\bin\Debug\net6.0-windows\PagedList.Mvc.dll

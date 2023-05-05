@@ -1,0 +1,30 @@
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\bin\Debug\net6.0\appsettings.json
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.deps.json
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.runtimeconfig.json
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.dll
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.pdb
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.csproj.AssemblyReference.cache
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.AssemblyInfoInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.AssemblyInfo.cs
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.csproj.CoreCompileInputs.cache
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.dll
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\refint\LibraryManage.dll
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.pdb
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.genruntimeconfig.cache
+D:\C Sharp\Folder\ProjectPRN\LibraryManage\obj\Debug\net6.0\ref\LibraryManage.dll
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\bin\Debug\net6.0\appsettings.json
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.deps.json
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.runtimeconfig.json
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.dll
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\bin\Debug\net6.0\LibraryManage.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.csproj.AssemblyReference.cache
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.AssemblyInfoInputs.cache
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.AssemblyInfo.cs
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.csproj.CoreCompileInputs.cache
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.dll
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\refint\LibraryManage.dll
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.pdb
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\LibraryManage.genruntimeconfig.cache
+D:\C Sharp\Tren lop\ProjectPRN\LibraryManage\obj\Debug\net6.0\ref\LibraryManage.dll

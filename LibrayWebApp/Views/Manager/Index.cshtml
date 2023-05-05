@@ -1,0 +1,95 @@
+﻿@model X.PagedList.IPagedList<LibraryManagerWeb.BusinessObject.Book>
+@using PagedList.Mvc;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Manager</h1>
+<li style="margin-left:1180px;list-style: none;background-color:red;;border-radius:20px;" class="nav-item ml-auto">
+    <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Login">Logout</a>
+</li>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("BookId")
+            </th>
+            <th>
+                @Html.DisplayName("Title")
+            </th>
+            <th>
+                @Html.DisplayName("Author")
+            </th>
+            <th>
+                @Html.DisplayName("PublicationDate")
+            </th>
+            <th>
+                @Html.DisplayName("AvailableCopies")
+            </th>
+            <th>
+                @Html.DisplayName("TotalCopies")
+            </th>
+            <th>
+                @Html.DisplayName("ShelfLocation")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvailableCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShelfLocation)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.BookId }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.BookId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.BookId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-action="Index" asp-route-page="@(Model.PageNumber - 1)">Previous</a>
+    }
+    else
+    {
+    <span>Previous</span>
+    }
+    @if (Model.HasNextPage)
+    {
+        <a asp-action="Index" asp-route-page="@(Model.PageNumber + 1)">Next</a>
+    }
+    else
+    {
+        <span>Next</span>
+    }
+</div>
+
+
